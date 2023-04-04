@@ -36,19 +36,19 @@
 ||`$ man <command-name>`||
 ||`$ <command> --help`||
 ||`$ apropos <keyword>`|shows command with keyword provided|
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
+||`$ cd $HOME`||
+||`$ echo $SHELL`||
+||`$ chsh`||
+||`$ alias cls=clear`||
+||`$ history`||
+||`$ env`||
+||`$ export NAME=nilanjan`| |
+||`$ echo $NAME`||
+||`$ OFFICE=London`|~/.profile or ~/.pam_environment|
+||`$ which python3`||
+||`$ export PATH=$PATH:/opt/obs/bin`||
+||`$ echo $PS1`||
+||`$ echo 'PS1="[\d]\u@\h:\w$"' >> ~/.profile`||
 ||`$ `||
 ||`$ `||
 ||`$ `||
