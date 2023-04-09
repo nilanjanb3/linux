@@ -49,14 +49,14 @@
 ||`$ export PATH=$PATH:/opt/obs/bin`||
 ||`$ echo $PS1`||
 ||`$ echo 'PS1="[\d]\u@\h:\w$"' >> ~/.profile`||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
+||`$ uname`||
+||`$ uname -r`||
+||`$ dmesg`||
+||`$ udevadm info --query=path --name=/dev/sda5`||
+||`$ udevadm monitor`||
+||`$ lspci`||
+||`$ lsblk`||
+||`$ lscpu`||
 ||`$ `||
 ||`$ `||
 ||`$ `||
