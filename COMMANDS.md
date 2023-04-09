@@ -49,22 +49,22 @@
 ||`$ export PATH=$PATH:/opt/obs/bin`||
 ||`$ echo $PS1`||
 ||`$ echo 'PS1="[\d]\u@\h:\w$"' >> ~/.profile`||
-||`$ uname`||
-||`$ uname -r`||
-||`$ dmesg`||
-||`$ udevadm info --query=path --name=/dev/sda5`||
-||`$ udevadm monitor`||
-||`$ lspci`||
-||`$ lsblk`||
-||`$ lscpu`||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
+||`$ uname`|get linux kernel name|
+||`$ uname -r`|get linux kernel version  |
+||`$ dmesg`|shows hardware and system logs|
+||`$ udevadm info --query=path --name=/dev/sda5`|The udevadm info command is used to display information about devices on a Linux system. When you run the command udevadm info --query=path --name=/dev/sda5, it will display the path of the device node for the device with the name /dev/sda5.|
+||`$ udevadm monitor`|listen kernel events|
+||`$ lspci`|display all pci, PCI => peripheral components interconnect|
+||`$ lsblk`|display block devices|
+||`$ lscpu`|display cpu architecture|
+||`$ lsmem --summary`||
+||`$ sudo systemctl get-default`||
+||`$ sudo systemctl set-default multi-user.target`||
+||`$ free`||
+||`$ free -m`||
+||`$ lshw`|detailed hardware info|
+||`$ file <file/dir name>`||
+||`$ sudo ls -l /sbin/init`||
 ||`$ `||
 ||`$ `||
 ||`$ `||
