@@ -65,8 +65,8 @@
 ||`$ lshw`|detailed hardware info|
 ||`$ file <file/dir name>`||
 ||`$ sudo ls -l /sbin/init`||
-||`$ `||
-||`$ `||
+||`$ yum repolist`||
+||`$ yum proves <command-name>`||
 ||`$ `||
 ||`$ `||
 ||`$ `||
