@@ -29,7 +29,8 @@ These are some topics to kickstart the Linux journey
     * [02-RPM Package Management](https://www.javatpoint.com/rpm-command-in-linux)
     * [03-YUM Package Management](https://blog.packagecloud.io/what-is-yum-package-manager/)
     * [04-Debian Package Management Tools](https://www.debian.org/doc/manuals/debian-faq/pkgtools.en.html)
-    * []()
+* 04-Working with Shell
+    * [01-]()
     * []()
     * []()
     * []()
