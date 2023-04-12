@@ -67,6 +67,53 @@
 ||`$ sudo ls -l /sbin/init`||
 ||`$ yum repolist`||
 ||`$ yum proves <command-name>`||
+||`$ du -sk <file-name>`||
+||`$ du -sh <file-name>`||
+||`$ ls -lh <file-name>`||
+||`$ tar -cf <archive-name.tar> <file1> <file2> <file3>`||
+||`$ tar -tf <archive-name.tar>`||
+||`$ tar -xf <archive-name.tar>`||
+||`$ tar -zcf <archive-name.tar> file1 file2 file3`||
+||`$ bzip2 && bunzip2`||
+||`$ gzip a$$ gunzip2`||
+||`$ xz && unxz`||
+||`$ locate <file-name>`||
+||`$ updatedb`||
+||`$ find <dir-path> -name <file-name>`||
+||`$ grep <pattern> <file-name>`||
+||`$ grep -i <pattern> <file-name>`||
+||`$ grep -r "<pattern>" <dir-path>`||
+||`$ grep -v "<pattern> <filename>"`||
+||`$ grep -w  <file-name>`||
+||`$ grep -vw <file-name>`||
+||`$ grep -A1 <pattern> <file-name>`||
+||`$ grep -B1 <pattern> <file-name>`||
+||`$ grep -A1 -B1 <pattern> <file-name>`||
+||`$ echo $SHELL > shell.txt`||
+||`$ echo $SHELL >> shell.txt`||
+||`$ cat invaliv_file.txt 2> error.txt `||
+||`$ cat invaliv_file.txt 2>> error.txt`||
+||`$ cat invaliv_file.txt 2> /dev/null`||
+||`$ grep <pattern> <file-name> | less`||
+||`$ echo "hello world" | tee hello.txt`||
+||`$ echo "hello world" | tee -a hello.txt`||
+||`$ zcat /usr/share/man/man1/tail.1.gz >> /home/bob/pipes`||
+||`$ `||
+||`$ `||
+||`$ `||
+||`$ `||
+||`$ `||
+||`$ `||
+||`$ `||
+||`$ `||
+||`$ `||
+||`$ `||
+||`$ `||
+||`$ `||
+||`$ `||
+||`$ `||
+||`$ `||
+||`$ `||
 ||`$ `||
 ||`$ `||
 ||`$ `||
