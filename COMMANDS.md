@@ -113,8 +113,8 @@
 ||`$ route`||
 ||`$ sudo ip link set dev eth0 up`||
 ||`$ sudo ip r add default via 172.16.238.1`||
-||`$ `||
-||`$ `||
+||`$ netstat -an | grep "80" | grep "LISTEN"`||
+||`$ traceroute www.google.com`||
 ||`$ `||
 ||`$ `||
 ||`$ `||
