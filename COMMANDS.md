@@ -98,14 +98,14 @@
 ||`$ echo "hello world" | tee hello.txt`||
 ||`$ echo "hello world" | tee -a hello.txt`||
 ||`$ zcat /usr/share/man/man1/tail.1.gz >> /home/bob/pipes`||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
+||`$ locate`||
+||`$ find`||
+||`$ ping <some-ip>`||
+||`$ cat >> /etc/host`||
+||`$ cat /etc/resolv.config`||
+||`$ cat /etc/nsswitch.conf`||
+||`$ nslookup`||
+||`$ dig`||
 ||`$ `||
 ||`$ `||
 ||`$ `||
