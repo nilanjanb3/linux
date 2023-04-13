@@ -106,12 +106,13 @@
 ||`$ cat /etc/nsswitch.conf`||
 ||`$ nslookup`||
 ||`$ dig`||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
+||`$ ip link`||
+||`$ ip addr addr`||
+||`$ ip addr add` ||
+||`$ ip addr show`||
+||`$ route`||
+||`$ sudo ip link set dev eth0 up`||
+||`$ sudo ip r add default via 172.16.238.1`||
 ||`$ `||
 ||`$ `||
 ||`$ `||
