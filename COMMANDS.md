@@ -107,7 +107,7 @@
 ||`$ nslookup`||
 ||`$ dig`||
 ||`$ ip link`||
-||`$ ip addr addr`||
+||`$ ip addr`||
 ||`$ ip addr add` ||
 ||`$ ip addr show`||
 ||`$ route`||
@@ -115,22 +115,22 @@
 ||`$ sudo ip r add default via 172.16.238.1`||
 ||`$ netstat -an | grep "80" | grep "LISTEN"`||
 ||`$ traceroute www.google.com`||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
-||`$ `||
+||`$ cat /etc/passwd`||
+||`$ id <username>`||
+||`$ grep -i <username> /etc/passwd`||
+||`$ id`||
+||`$ last`||
+||`$ who`||
+||`$ su -`||
+||`$ sudo`||
+||`$ useradd <username>`||
+||`$ passwd <username>`||
+||`$ userdel <username>`||
+||`$ groupadd -g <id-number> <groupname>`||
+||`$ groupdel <group-name>`||
+||`$ cat /etc/passwd`||
+||`$ cat /etc/shadow`||
+||`$ cat /etc/group`||
 ||`$ `||
 ||`$ `||
 ||`$ `||
