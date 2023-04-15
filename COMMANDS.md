@@ -131,7 +131,7 @@
 ||`$ cat /etc/passwd`||
 ||`$ cat /etc/shadow`||
 ||`$ cat /etc/group`||
-||`$ `||
+||`$ chmod <value> <filename>`||
 ||`$ `||
 ||`$ `||
 ||`$ `||
