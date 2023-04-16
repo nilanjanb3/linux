@@ -132,8 +132,21 @@
 ||`$ cat /etc/shadow`||
 ||`$ cat /etc/group`||
 ||`$ chmod <value> <filename>`||
+||`$ chown `||
+||`$ gdisk <disk-path>`||
+||`$ df -lh`||
+||`$ fdisk -l `||
+||`$ sudo fdisk -l  /dev/sda`||
+||`$ lsblk -f`||
+||`$ sudo resize2fs /dev/temp_vg/data`||
 ||`$ `||
 ||`$ `||
 ||`$ `||
 ||`$ `||
 ||`$ `||
+||`$ `||
+||`$ `||
+||`$ `||
+||`$ `||
+||`$ `||
+
